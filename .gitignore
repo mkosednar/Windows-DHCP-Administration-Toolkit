@@ -1,0 +1,7 @@
+# Local DHCP exports may contain client names, identifiers, and address data.
+Reports/
+*.csv
+*.json
+*.html
+Thumbs.db
+Desktop.ini
